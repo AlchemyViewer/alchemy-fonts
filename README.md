@@ -9,3 +9,5 @@ The woff2 format fonts were created via woff2_compress avaliable via most packag
 * Source Code Pro VF - 1.026  - otf->woff2       - https://github.com/adobe-fonts/source-sans
 * Source Han Sans VF - 2.005R - OTFTTC           - https://github.com/adobe-fonts/source-han-sans
 * Twemoji-SVG-Font   - 17.0.2 - ttf->woff2       - https://github.com/AlchemyViewer/twemoji-color-font
+* 0xProto            - 2.502  - ttf->woff2       - https://github.com/0xType/0xProto
+* Lexica Ultralegible- 1.0.0  - woff2            - https://github.com/jacobxperez/lexica-ultralegible
